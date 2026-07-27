@@ -92,7 +92,7 @@ The dataset contains information related to:
 
 ## 📊 Dashboard Preview
 
-![Dashboard]("C:\Users\91965\OneDrive\Desktop\Ecommerce_Analytics_Dashboard\Dashboard.png")
+![Dashboard]("Dashboard.png")
 
 ---
 
