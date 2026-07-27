@@ -91,8 +91,7 @@ The dataset contains information related to:
 ---
 
 ## 📊 Dashboard Preview
-
-![Dashboard]("Dashboard.png")
+![Dashboard](Dashboard.png)
 
 ---
 
